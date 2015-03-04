@@ -10,5 +10,7 @@ package napakalaki;
  * @author Administrador
  */
 public class Prize {
+    private int treasures;
+    private int levels;
     
 }
