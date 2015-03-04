@@ -13,4 +13,9 @@ public class Prize {
     private int treasures;
     private int levels;
     
+    public Prize(int tesoros, int niveles ){
+        treasures   = tesoros;
+        levels      = niveles;
+    }
+    
 }
