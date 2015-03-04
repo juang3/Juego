@@ -17,5 +17,11 @@ public class Prize {
         treasures   = tesoros;
         levels      = niveles;
     }
+    public getTreasures(){
+        return treasures;
+    }
+    public getLevels(){
+        return levels;
+    }
     
 }
